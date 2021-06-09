@@ -1,3 +1,5 @@
 I love Git!
 
+Me too!
+
 Everybody live Git!
